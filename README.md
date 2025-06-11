@@ -1,3 +1,5 @@
+Ce projet est en cours de développement. Le code peut être désorganisé ou incomplet.
+
 # EEG Signal Processing & Contrôle de Véhicule
 
 ## Objectif général
