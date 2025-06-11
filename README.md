@@ -1,4 +1,4 @@
-I : EEG Signal Processing & Contrôle de Véhicule
+EEG Signal Processing & Contrôle de Véhicule
 
 ## Objectif général
 
