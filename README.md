@@ -4,7 +4,7 @@ I : EEG Signal Processing & Contrôle de Véhicule
 
 Développer un système BCI (Brain–Computer Interface) capable de reconnaître dans le signal EEG les intentions motrices : « gauche », « droite », « avancer », « reculer », puis piloter un véhicule (voiture, simulateur) en temps réel.
 
-## Plan d’étude et développement (8 semaines)
+## Plan d’étude et développement
 
 1. **Bases du signal EEG** :  
    - Chargement et visualisation de signaux EEG (OpenBCI)  
