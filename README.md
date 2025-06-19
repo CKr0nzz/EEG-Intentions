@@ -10,5 +10,8 @@ Développer un système BCI (Brain–Computer Interface) capable de reconnaître
 
 1. **Bases du signal EEG** :  
    - Chargement et visualisation de signaux EEG (OpenBCI)  
-   - Comprendre la nature et les artefacts du signal  
-   - Notebook : `01_Bases_EEG.ipynb`
+   - Explications simples sur les signaux
+   - Notebook : '01_Bases_EEG.ipynb'
+2. **Analyse des signaux** :
+   - Calcul FFT
+   - Notebook2 : '02_Analyse_Fourier.ipynb' 
